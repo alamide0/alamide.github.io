@@ -1,5 +1,3 @@
-This blog was created by zhaosiyuan on November 25, 2021, it was his birthday.
+# zhaosiyuan 的个人主站
 
-This domain name is a gift and was obtained on November 24, 2021.
-
-He likes this gift!
+域名于2021年11月24日获得，主站于2021年11月25日生日当天创建，是送给自己的生日礼物。
